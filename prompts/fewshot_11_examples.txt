@@ -1,0 +1,37 @@
+Simplify the given text.
+###
+Text: Luis uses square inch tiles to build a rectangle with a perimeter of 24 inches. Does knowing this help him find the number of rectangles he can build with an area of 24 square inches? Why or why not?
+Simplified: You want to count all the ways to make 24 square inch rectangles. You first make a 24 inch perimeter rectangle with 1 square inch tiles. Will this help?
+###
+Text: Fill in the missing whole numbers in the boxes below the number line. Rename the whole numbers as fractions in the boxes above the number line.
+Simplified: Write whole numbers in the boxes below the number line. Write fractions equal to whole numbers in the boxes above the numberline.
+###
+Text: Compare the perimeter of your tessellation to a partner's. Whose tessellation has a greater perimeter? How do you know?
+Simplified: Compare your pattern with someone else's pattern. Which pattern has a longer perimeter?
+###
+Text: Place the two fractions on the number line. Circle the fraction with the distance closest to 0. Then compare using >, <, or =. The first problem is done for you.
+Simplified: Place the two fractions on the number line. Circle the fraction closest to 0. Then compare the fractions using >, <, or =. The first problem is done for you.
+###
+Text: Three rectangular prisms have a combined volume of 518 cubic feet. Prism A has one-third the volume of Prism B, and Prisms B and C have equal volume. What is the volume of each prism?
+Simplified: Total volume of three prisms is 518 cubic feet. Prism A has one-third the volume of Prism B. Prisms B and C have equal volume. What is the volume of each prism?
+###
+Text: Amy measures ribbon. She measures a total of 393 centimeters of ribbon and cuts it into two pieces. The first piece is 184 centimeters long. How long is the second piece of ribbon?
+Simplified: What is 393 minus 184?
+###
+Text: Amy measures ribbon. She measures a total of 393 centimeters of ribbon and cuts it into two pieces. The first piece is 184 centimeters long. How long is the second piece of ribbon?
+Simplified: You have 393 centimeters of ribbon. You cut out 184 centimeters. How much ribbon is left?
+###
+Text: Decimal Fraction Review: Plot and label each point on the number line below, and complete the chart. Only solve the portion above the dotted line.
+Simplified: Mark points A, B, and C on the numberline below. Then complete the table. Only solve the portion above the dotted line.
+###
+Text: Evan put a 2-pound weight on one side of the scale. How many 1-ounce weights will he need to put on the other side of the scale to make them equal?
+Simplified: Evan put a 2-pound weight on one side of the scale. How many 1-ounce weights will he need to balance the scale?
+###
+Text: Solve 26 x 34 using 4 partial products and 2 partial products. Remember to think in terms of units as you solve. Write an expression to find the area of each smaller rectangle in the area model.
+Simplified: Solve using partial products in 2 different ways. Think in terms of units. Find the area of each smaller rectangle in the diagrams.
+###
+Text: George decided to paint a wall with two windows. Both windows are 3 ft by 4 ft rectangles. Find the area the paint needs to cover.
+Simplified: A wall has two windows as shown below. What is the area of the wall minus the area of windows?
+###
+Text: __INPUT__
+Simplified:

@@ -1,0 +1,19 @@
+Simplify the given text.
+###
+Text: Luis uses square inch tiles to build a rectangle with a perimeter of 24 inches. Does knowing this help him find the number of rectangles he can build with an area of 24 square inches? Why or why not?
+Simplified: You want to count all the ways to make 24 square inch rectangles. You first make a 24 inch perimeter rectangle with 1 square inch tiles. Will this help?
+###
+Text: Fill in the missing whole numbers in the boxes below the number line. Rename the whole numbers as fractions in the boxes above the number line.
+Simplified: Write whole numbers in the boxes below the number line. Write fractions equal to whole numbers in the boxes above the numberline.
+###
+Text: Compare the perimeter of your tessellation to a partner's. Whose tessellation has a greater perimeter? How do you know?
+Simplified: Compare your pattern with someone else's pattern. Which pattern has a longer perimeter?
+###
+Text: Place the two fractions on the number line. Circle the fraction with the distance closest to 0. Then compare using >, <, or =. The first problem is done for you.
+Simplified: Place the two fractions on the number line. Circle the fraction closest to 0. Then compare the fractions using >, <, or =. The first problem is done for you.
+###
+Text: Three rectangular prisms have a combined volume of 518 cubic feet. Prism A has one-third the volume of Prism B, and Prisms B and C have equal volume. What is the volume of each prism?
+Simplified: Total volume of three prisms is 518 cubic feet. Prism A has one-third the volume of Prism B. Prisms B and C have equal volume. What is the volume of each prism?
+###
+Text: __INPUT__
+Simplified:
