@@ -1,6 +1,0 @@
-My __GRADE__ grader asked me what this passage means:
-"""
-__INPUT__
-"""
-I rephrased it for him, in plain language a __GRADE__ grader can understand:
-"""
